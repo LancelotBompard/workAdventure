@@ -37,7 +37,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":".\/maps\/secoundfloor\/map2.json"
+                 "value":".\/map2.json"
                 }],
          "type":"tilelayer",
          "visible":true,
